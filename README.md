@@ -2,6 +2,8 @@
 
 Make your cursor fun.
 
+[Demo](https://gatsby-recipe-emoji-cursor.netlify.app/)
+
 ## Usage
 
 ```
