@@ -1,4 +1,4 @@
-# gatsby-plugin-emoji-cursor
+# gatsby-recipe-emoji-cursor
 
 Make your cursor fun.
 
