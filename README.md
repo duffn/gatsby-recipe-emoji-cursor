@@ -1,3 +1,7 @@
+# Unmaintained
+
+_This repository is archived and unmaintained. Use at your own risk._
+
 # gatsby-recipe-emoji-cursor
 
 Make your cursor fun.
